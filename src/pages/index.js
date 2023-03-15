@@ -65,7 +65,7 @@ useEffect(() =>{
       <main>
 
 
-      <div class='grid h-screen place-items-center'>
+      <div class='grid  h-screen place-items-center'>
 
         <h1 class='text-center hover:text-7xl hover:filter-none animation duration-100 ease-in-out filter grayscale text-5xl' onMouseOver={getRandomEmoji}>{emojit}</h1>
 
