@@ -74,6 +74,7 @@ useEffect(() =>{
       <div class='fixed bottom-0 flex justify-center w-full'>
       <a href='https://github.com/DaviFernandesDaSilva' target='_blank'>
       <h1 class='hover:scale-125 animation duration-200 text-gray-200 text-sm text-center p-2'>Made with ❤ by Davi Fernandes</h1>
+    <h1 class='hover:scale-125 animation duration-200 text-gray-200 text-sm text-center p-2'>Hi</h1>
       </a>
       </div>  
 
